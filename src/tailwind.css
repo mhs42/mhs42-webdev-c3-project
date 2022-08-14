@@ -1,0 +1,5 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* Start Tailwind CLI build process */
+/* sudo npx tailwindcss -i ./src/tailwind.css -o ./resources/css/tailwind.css --watch */
