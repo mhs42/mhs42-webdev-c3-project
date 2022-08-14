@@ -1,4 +1,4 @@
-# webdev-c3-project
+# mhs42-webdev-c3-project
 
 Steps:
 
